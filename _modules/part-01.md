@@ -3,7 +3,7 @@ title: Вступ
 ---
 
 
-12 лют 
+14 лют 
 : **Огляд**{: .label .label-blue}**Деталі курсу 👋**
   : [[HML](https://ykochura.github.io/ml-kpi/?p=details.md#1)][[PDF](https://ykochura.github.io/ml-kpi/pdf/details.pdf)] 
 
@@ -14,7 +14,7 @@ title: Вступ
   : [[MLE Ch. 1, pp. 1-21](http://bit.ly/MLEbook-Chapter1)] <br> [[Numpy Handbook](https://ykochura.github.io/ml-kpi/tutor/Numpy Handbook.pdf)]
 
 
-19 лют
+<!-- 19 лют
 : **Лекція 2**{: .label .label-green } **Cтатистичне навчання**  
   : [[HML](https://ykochura.github.io/ml-kpi/?p=lecture2.md#1)][[PDF](https://ykochura.github.io/ml-kpi/pdf/lecture2.pdf)] 
 
@@ -47,7 +47,7 @@ title: Вступ
 
 : **ПР #3**{: .label .label-purple} **Метод опорних векторiв** 
   : [[Деталі](https://drive.google.com/file/d/1yXXFUSBJ8-9i-7rCd7b-SLfHsaZS6ORP/view?usp=sharing)] 
-    : **Дедлайн**:  24 травня 
+    : **Дедлайн**:  24 травня  -->
 
 
 <!--

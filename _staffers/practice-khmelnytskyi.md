@@ -9,4 +9,4 @@ lectures: онлайн
 site: https://schedule.kpi.ua/
 ---
 
- [BBB кімната](){: .btn .btn-outline } <!--[BBB резерв](){: .btn .btn-outline } -->
+ <!--[BBB кімната](){: .btn .btn-outline } [BBB резерв](){: .btn .btn-outline } -->
