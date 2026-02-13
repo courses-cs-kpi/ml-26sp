@@ -1,6 +1,6 @@
 ---
 layout: home
-title: ОТ
+title: МН
 nav_exclude: true
 seo:
   type: Курс
