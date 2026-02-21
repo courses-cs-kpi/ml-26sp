@@ -3,7 +3,7 @@ title: Вступ
 ---
 
 
-14 лют 
+14-21 лют 
 : **Огляд**{: .label .label-blue}**Деталі курсу 👋**
   : [[HML](https://ykochura.github.io/ml-kpi/?p=details.md#1)][[PDF](https://ykochura.github.io/ml-kpi/pdf/details.pdf)] 
 
