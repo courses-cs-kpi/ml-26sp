@@ -1,7 +1,7 @@
 ---
 name: Арсеній Андрійович Хмельницький
 role: Instructor
-website: https://t.me/akhmeln 
+website: https://t.me/generic_usname 
 photo: noname.jpg
 pronouns: лабораторні
 department: обчислювальної техніки
