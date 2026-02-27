@@ -14,10 +14,11 @@ title: Вступ
   : [[Словник термінів](https://storage.thedigital.gov.ua/files/2/72/389a01ab0cc82040dfe172f94d1af720.pdf)] <br> [[MLE Ch. 1, pp. 1-21](http://bit.ly/MLEbook-Chapter1)] <br> [[Numpy Handbook](https://ykochura.github.io/ml-kpi/tutor/Numpy Handbook.pdf)]
 
 
-<!-- 19 лют
+28 лют
 : **Лекція 2**{: .label .label-green } **Cтатистичне навчання**  
   : [[HML](https://ykochura.github.io/ml-kpi/?p=lecture2.md#1)][[PDF](https://ykochura.github.io/ml-kpi/pdf/lecture2.pdf)] 
 
+<!-- 
 : **ПР #1**{: .label .label-purple} **Лiнiйна регресiя** 
   : [[Деталі](https://drive.google.com/file/d/17rqnKTbh6SOar-CVdyBYL4Xy6RsLuNwR/view?usp=sharing)] 
     : **Дедлайн**:  02 березня
