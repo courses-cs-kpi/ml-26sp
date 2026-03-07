@@ -19,7 +19,7 @@ title: Вступ
   : [[HML](https://ykochura.github.io/ml-kpi/?p=lecture2.md#1)][[PDF](https://ykochura.github.io/ml-kpi/pdf/lecture2.pdf)] 
 
 
-26 лют
+07 бер
 : **Лекція 3**{: .label .label-green } **Розвідувальний аналіз даних з pandas**
   : [[Демо](https://www.kaggle.com/code/kyuriy/pandas)] [[ВІДЕО](https://youtu.be/OmxMWNXWjQA)]
 
