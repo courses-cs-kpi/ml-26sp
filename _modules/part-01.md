@@ -18,18 +18,15 @@ title: Вступ
 : **Лекція 2**{: .label .label-green } **Cтатистичне навчання**  
   : [[HML](https://ykochura.github.io/ml-kpi/?p=lecture2.md#1)][[PDF](https://ykochura.github.io/ml-kpi/pdf/lecture2.pdf)] 
 
-<!-- 
-: **ПР #1**{: .label .label-purple} **Лiнiйна регресiя** 
-  : [[Деталі](https://drive.google.com/file/d/17rqnKTbh6SOar-CVdyBYL4Xy6RsLuNwR/view?usp=sharing)] 
-    : **Дедлайн**:  02 березня
 
 26 лют
 : **Лекція 3**{: .label .label-green } **Розвідувальний аналіз даних з pandas**
   : [[Демо](https://www.kaggle.com/code/kyuriy/pandas)] [[ВІДЕО](https://youtu.be/OmxMWNXWjQA)]
 
 : **Матеріал**{: .label .label-red}**Для додаткового ознайомлення**
-  : [[Шпаргалка](https://colab.research.google.com/github/fralfaro/DS-Cheat-Sheets/blob/main/docs/examples/pandas/pandas.ipynb)] 
+  : [[Туторіал](https://colab.research.google.com/github/fralfaro/DS-Cheat-Sheets/blob/main/docs/examples/pandas/pandas.ipynb)] <br> [[Пам'ятка](https://ykochura.github.io/ml-kpi/tutor/Pandas Cheat Sheet & Quick Reference.pdf)]
 
+<!-- 
 18 бер
 : **Лекція 4**{: .label .label-green } **Візуальний аналіз даних**
   : [[Демо](https://www.kaggle.com/code/kyuriy/12345)] 
@@ -58,4 +55,8 @@ title: Вступ
 : **Лекція 4**{: .label .label-green } **Візуальний аналіз даних**
   : [[Демо]()] [[ВІДЕО]()]
   [[ВІДЕО](https://youtu.be/_LDRSPLwOb8)]
+
+: **ПР #1**{: .label .label-purple} **Лiнiйна регресiя** 
+  : [[Деталі](https://drive.google.com/file/d/17rqnKTbh6SOar-CVdyBYL4Xy6RsLuNwR/view?usp=sharing)] 
+    : **Дедлайн**:  02 березня
  -->
