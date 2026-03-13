@@ -26,11 +26,12 @@ title: Вступ
 : **Матеріал**{: .label .label-red}**Для додаткового ознайомлення**
   : [[Туторіал](https://colab.research.google.com/github/fralfaro/DS-Cheat-Sheets/blob/main/docs/examples/pandas/pandas.ipynb)] <br> [[Пам'ятка](https://ykochura.github.io/ml-kpi/tutor/Pandas Cheat Sheet & Quick Reference.pdf)]
 
-<!-- 
-18 бер
+
+14 бер
 : **Лекція 4**{: .label .label-green } **Візуальний аналіз даних**
   : [[Демо](https://www.kaggle.com/code/kyuriy/12345)] 
 
+<!-- 
 09 кві
 : **Лекція 5**{: .label .label-green } **Метод найближчих сусідів**  
   : [[HML](https://ykochura.github.io/ml-kpi/?p=lecture5.md#1)][[PDF](https://ykochura.github.io/ml-kpi/pdf/lecture5.pdf)]
