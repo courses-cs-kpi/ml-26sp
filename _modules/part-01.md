@@ -38,7 +38,10 @@ title: Вступ
 
 04 кві
 : **Лекція 6**{: .label .label-green } **Вступ до кластеризації**
-  : [[Демо](https://colab.research.google.com/github/YKochura/ml-kpi/blob/main/tutor/kmeans.ipynb)] 
+  : [[Демо](https://colab.research.google.com/github/YKochura/ml-kpi/blob/main/tutor/kmeans.ipynb)]
+
+: **Матеріал**{: .label .label-red}**Для додаткового ознайомлення**
+  : [[K-means clustering](https://www.youtube.com/watch?v=4b5d3muPQmA)] <br> [[Clustering Algorithm Visualizer](https://clustering-visualizer.web.app/kmeans)]
 
 <!-- 
 : **ПР #2**{: .label .label-purple} **k-найближчі сусіди** 
