@@ -36,6 +36,10 @@ title: Вступ
 : **Лекція 5**{: .label .label-green } **Метод найближчих сусідів**  
   : [[HML](https://ykochura.github.io/ml-kpi/?p=lecture5.md#1)][[PDF](https://ykochura.github.io/ml-kpi/pdf/lecture5.pdf)]
 
+04 кві
+: **Лекція 6**{: .label .label-green } **Вступ до кластеризації**
+  : [[Демо](https://colab.research.google.com/github/YKochura/ml-kpi/blob/main/tutor/kmeans.ipynb)] 
+
 <!-- 
 : **ПР #2**{: .label .label-purple} **k-найближчі сусіди** 
   : [[Деталі](https://drive.google.com/file/d/1rudfsCq7LQg-fdwykl4b08otDLmYN3lx/view?usp=sharing)] 
