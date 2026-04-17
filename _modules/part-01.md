@@ -44,8 +44,14 @@ title: Вступ
   : [[K-means clustering](https://www.youtube.com/watch?v=4b5d3muPQmA)] <br> [[Clustering Algorithm Visualizer](https://clustering-visualizer.web.app/kmeans)]
 
 11 кві
-: **Лекція 7**{: .label .label-green }**Метод опорних векторів**
+: **Лекція 7**{: .label .label-green  }**Метод опорних векторів**
   : [[ipynb](https://colab.research.google.com/github/YKochura/ml-kpi/blob/main/tutor/support_vector_machines.ipynb)]
+
+17 кві
+: **Семінар**{: .label .label-yellow} **Теми на семінар**
+  : [[PDF](https://ykochura.github.io/ml-kpi/pdf/topics-ml.pdf)]
+    : з 2 травня 
+
 
 <!-- 
 : **ПР #2**{: .label .label-purple} **k-найближчі сусіди** 
