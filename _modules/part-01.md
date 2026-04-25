@@ -52,6 +52,9 @@ title: Вступ
   : [[PDF](https://ykochura.github.io/ml-kpi/pdf/topics-ml.pdf)]
     : з 2 травня 
 
+25 кві
+: **Лекція 8**{: .label .label-green  }**Метод головних компонент**
+  : [[ipynb](https://colab.research.google.com/github/YKochura/ml-kpi/blob/main/tutor/principal_component_analysis.ipynb)]
 
 <!-- 
 : **ПР #2**{: .label .label-purple} **k-найближчі сусіди** 
